@@ -1,0 +1,16 @@
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\bin\Debug\net5.0\generic-helper.exe
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\bin\Debug\net5.0\generic-helper.deps.json
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\bin\Debug\net5.0\generic-helper.runtimeconfig.json
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\bin\Debug\net5.0\generic-helper.runtimeconfig.dev.json
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\bin\Debug\net5.0\generic-helper.dll
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\bin\Debug\net5.0\ref\generic-helper.dll
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\bin\Debug\net5.0\generic-helper.pdb
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\generic-helper.csproj.AssemblyReference.cache
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\generic-helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\generic-helper.AssemblyInfoInputs.cache
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\generic-helper.AssemblyInfo.cs
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\generic-helper.csproj.CoreCompileInputs.cache
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\generic-helper.dll
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\ref\generic-helper.dll
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\generic-helper.pdb
+C:\Users\galhardo.dsn.erp\Desktop\generics\generic-helper-app\generic-helper\obj\Debug\net5.0\generic-helper.genruntimeconfig.cache

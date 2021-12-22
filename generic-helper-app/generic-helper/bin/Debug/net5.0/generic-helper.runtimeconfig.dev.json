@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\galhardo.dsn.erp\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\galhardo.dsn.erp\\.nuget\\packages"
+    ]
+  }
+}
