@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3zRV2XhmSCpWybYAiEgchctJcX/jr9KqcjSKo/IS2DEWKZib+/WZqUqHI+niZon+MDLKY4DRqsifm3MDxGJ3uQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arqui\\Desktop\\generics-pratica\\console-generics\\console-generics\\console-generics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arqui\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
